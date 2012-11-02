@@ -1,0 +1,4 @@
+PyYAML==3.10
+ipython==0.13.1
+pytz==2012h
+wsgiref==0.1.2
